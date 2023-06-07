@@ -1,3 +1,7 @@
+<div align="right">
+<a title="Chinese" href="/README-EN.md">English</a>
+</div>
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
