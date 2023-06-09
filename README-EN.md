@@ -201,7 +201,7 @@ Distributed under The GLP-3.0 and The 996.ICU License. See <a href="./LICENSE">L
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name - email@email_client.com
 
 More contact information:
 [ YuZhangWang](https://github.com/YuZhangWang) or
