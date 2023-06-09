@@ -89,7 +89,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-这里有一个空白模板，可以开始使用： 为了避免重复输入太多的信息。用你的文本编辑器对以下内容进行搜索和替换： `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`。
+这里有一个空白模板，可以开始使用： 为了避免重复输入太多的信息。用你的文本编辑器对以下内容进行搜索和替换： `github_username`, `repo_name`, `项目名称`, `项目描述`,`email`,`email_client`。
 
 <p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
