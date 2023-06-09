@@ -192,7 +192,7 @@ Don't forget to give the project a star! Thanks again!
 <!-- LICENSE -->
 ## License
 
-Distributed under The GLP-3.0 and The 996.ICU License. See <a href="./LICENSE">LICENSE</a>and<a href="./LICENSE-996.ICU">LICENSE-996.ICU</a> for more information.
+Distributed under The GLP-3.0 and The 996.ICU License. See <a href="./LICENSE">LICENSE</a> and <a href="./LICENSE-996.ICU">LICENSE-996.ICU</a> for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
