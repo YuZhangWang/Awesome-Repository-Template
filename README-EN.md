@@ -203,7 +203,9 @@ Distributed under The GLP-3.0 and The 996.ICU License. See <a href="./LICENSE">L
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+More contact information:
+[ YuZhangWang](https://github.com/YuZhangWang) or
+[YuZhangWang的领域](https://yuzhang.wang/about)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
