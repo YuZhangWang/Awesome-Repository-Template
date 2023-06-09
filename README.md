@@ -190,7 +190,7 @@ _更多的例子，请参考 [Documentation](https://example.com)_
 <!-- LICENSE -->
 ## License
 
-在GLP-3.0和996.ICU许可下发布。更多信息见<a href="./LICENSE">LICENSE</a>和<a href="./LICENSE-996.ICU">LICENSE-996.ICU</a>。
+在GLP-3.0和996.ICU许可下发布。更多信息见<a href="./LICENSE">LICENSE</a> 和 <a href="./LICENSE-996.ICU">LICENSE-996.ICU</a>。
 
 <p align="right">(<a href="#readme-top">回到顶部</a>)</p>
 
