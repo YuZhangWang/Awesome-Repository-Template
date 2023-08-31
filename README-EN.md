@@ -32,7 +32,7 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Read the description document »</strong></a>
+    <a href="https://yuzhang.wang/"><strong>Read the description document »</strong></a>
     <br />
     <br />
     <a href="https://github.com/github_username/repo_name">View Demo</a>
