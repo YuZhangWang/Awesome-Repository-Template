@@ -1,4 +1,4 @@
-![202210171416164](https://github.com/YuZhangWang/Awesome-Repository-Template/assets/65295250/fc3b8807-59f5-4142-8dcd-e8d2aad602ef)<a name="readme-top"></a>
+<a name="readme-top"></a>
 
 
 <!-- 项目相关的一些图标信息 -->
