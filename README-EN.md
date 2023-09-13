@@ -24,7 +24,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="140" height="140">
+    <img src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -80,7 +80,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-![product-screenshot](images/screenshot.jpg)
+![product-screenshot](https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02/2022/04/18/20220418195159290.jpg)
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`,`project_title`, `project_description`
 
