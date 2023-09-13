@@ -1,4 +1,4 @@
-<a name="readme-top"></a>
+![202210171416164](https://github.com/YuZhangWang/Awesome-Repository-Template/assets/65295250/fc3b8807-59f5-4142-8dcd-e8d2aad602ef)<a name="readme-top"></a>
 
 
 <!-- 项目相关的一些图标信息 -->
@@ -25,7 +25,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="140" height="140">
+    <img src="https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02@master/img/202210171416164.png" alt="Logo" width="140" height="140">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -81,7 +81,7 @@
 
 <!-- ABOUT THE PROJECT -->
 # 关于
-![product-screenshot](images/screenshot.jpg)
+![product-screenshot](https://gcore.jsdelivr.net/gh/YuZhangWang/Creative-pictures02/2022/04/18/20220418195159290.jpg)
 
 这里有一个空白模板，可以开始使用： 为了避免重复输入太多的信息。用你的文本编辑器对以下内容进行搜索和替换： `github_username`, `repo_name`, `project_title`, `project_description`
 
